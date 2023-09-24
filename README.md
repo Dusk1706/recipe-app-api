@@ -3,6 +3,11 @@ Recipe API project
 
 ## Technologies used
 Django
+
 Docker Compose
+
 PostgreSQL
+
 AWS
+
+Github Actions
